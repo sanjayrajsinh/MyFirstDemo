@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirst Application</string>
+    <string name="clickme">Click Here</string>
+</resources>
