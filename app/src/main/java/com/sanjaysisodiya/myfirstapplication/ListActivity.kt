@@ -22,8 +22,6 @@ class ListActivity : AppCompatActivity() {
           rvlist.layoutManager = LinearLayoutManager(this)
           rvlist.adapter = adapter
 
-
-
           for(a in 1..20){
                var person=Person()
                person.age=20+a
